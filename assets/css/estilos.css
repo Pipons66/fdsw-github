@@ -19,6 +19,9 @@ body {
   background-size: cover;
   background-position: center;
 }
+.bg-mistrabajos{
+  background-color: rgb(127, 197, 255);
+}
 
 /* Contacto */
 
